@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="437dcc1f-53cf-4be5-9a62-94ac8424da18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/homepage_component.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/list_component.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/traits/component_trait.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/traits/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/traits/router_trait.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="XmvhMEsP" />
+  </component>
+  <component name="ProjectId" id="1YWbPO9jOZ9K3bNew5TTpmvz6U9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.hideDetachedFileNotifications/home/martin/Documents/Private/Rust/WebDevelopment/seed-quickstart/src/router_component.rs" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/traits" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="437dcc1f-53cf-4be5-9a62-94ac8424da18" name="Default Changelist" comment="" />
+      <created>1583061272754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583061272754</updated>
+      <workItem from="1583061275245" duration="13632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="672" y="368" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583073704519">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="672" y="368" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583073704519" />
+    <state x="771" y="282" key="#com.intellij.ide.util.MemberChooser" timestamp="1583075206937">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="771" y="282" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583075206937" />
+    <state x="696" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583075049883">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="696" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583075049883" />
+    <state x="627" y="255" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583075147764">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="627" y="255" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583075147764" />
+    <state x="563" y="241" width="789" height="614" key="find.popup" timestamp="1583069986185">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="563" y="241" width="789" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583069986185" />
+    <state x="621" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1583070795019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="257" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583070795019" />
+  </component>
+</project>

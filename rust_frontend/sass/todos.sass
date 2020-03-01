@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap')
+#todo_wrapper
+  width: 60%
+  height: 50%
+  display: block
+  margin-left: 20%
+  margin-top: 5%
+
+  .todo_item
+    width: 100%
+    height: 10%
+    border-bottom: 1px solid black
+    margin-bottom: 2%
+    display: flex
+    align-items: center
+
+    .todo_item_left
+      width: 80%
+      height: 100%
+      display: flex
+      align-items: center
+
+    .todo_item_right
+      width: 20%
+      height: 100%
+      display: flex
+      align-items: center
+      justify-content: flex-end
+      margin-right: 2%
+      font-size: 25px
+
+      i:hover
+        color: #691E06
+        transition: all 300ms
+  .add_item
+    width: 100%
+    height: 10%
+    border-bottom: 1px solid black
+    margin-bottom: 2%
+    padding-bottom: 1%
+    display: flex
+    align-items: center
+
+    .add_item_left
+      width: 60%
+      height: 100%
+      display: flex
+      align-items: center
+
+      input
+        border: none
+        border-bottom: 2px solid black
+        height: 55%
+        width: 70%
+        &:focus
+          border-bottom: 2px solid #691E06
+          transition: 300ms
+
+    .add_item_right
+      width: 40%
+      height: 100%
+      display: flex
+      align-items: center
+      justify-content: flex-end
+      margin-right: 2%
+      font-size: 25px
+      .add_todo_button
+        border: none
+        color: white
+        background-color: #BB4D00
+        border: 1px solid transparent
+        width: 40%
+        padding-top: 2%
+        padding-bottom: 2%
+        font-family: 'Raleway'
+        font-size: 15px
+        &:hover
+          color: #BB4D00
+          border: 1px solid #BB4D00
+          background-color: white
+          transition: 300ms
+
+#btn_wrapper
+  width: 100%
+  display: flex
+  align-items: center
+  justify-content: center
+
+  i
+    font-size: 50px
+    color: #BB4D00
+    &:hover
+      color: #8F250C
+      transition: 300ms linear
